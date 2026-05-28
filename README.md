@@ -3,7 +3,7 @@
 Projeto desenvolvido para o Agrinho 2026 na categoria Desenvolvimento Front-End.
 
 ## Tecnologias utilizadas
-- HTML
+index.html
 - CSS
 - JavaScript
 
